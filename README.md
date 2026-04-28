@@ -104,8 +104,6 @@ vibe       : Low-level depth + High-level scale
 
 <div align="center">
 
-![Profile Views](https://visitcount.itsvg.in/api?id=LogicDraft&icon=5&color=9)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
 </div>

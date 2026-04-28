@@ -4,6 +4,8 @@
 
 ---
 
+<img src="https://avatars.githubusercontent.com/u/271602584?v=4">
+
 ## 🧠 About Me
 
 * 🌱 Currently diving deeper into **systems programming & cloud**

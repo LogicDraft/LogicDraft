@@ -9,7 +9,7 @@
 <div align="center">
 
 <a href="https://github.com/LogicDraft">
-  <img src="https://avatars.githubusercontent.com/u/271602584?v=4" width="110" style="border-radius: 50%;"/>
+  <img src="https://avatars.githubusercontent.com/u/271602584?v=4&size=64" width="110" style="border-radius: 50%;"/>
 </a>
 
 <br/><br/>

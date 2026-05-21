@@ -67,17 +67,6 @@ vibe       : Low-level depth + High-level scale
 
 </div>
 
----
-
-## 🧩 Currently Building
-
-| Area | Status |
-|------|--------|
-| 🔧 **DSA & Competitive Programming** | `actively grinding` |
-| ☁️ **Cloud Architecture on AWS** | `exploring` |
-| 🧪 **Small but meaningful projects** | `in progress` |
-
----
 
 ## 🌐 Find Me Online
 
